@@ -140,6 +140,8 @@ VSСode дает возможность выбрать какое изменен
 Чтобы добавить локальный репозиторий в удаленный используй команду:
 
     git remote add reposit_name link
+    git branch -M master
+    git push -u name_repos master
 
 ### Отправка изменений
 
