@@ -151,4 +151,4 @@ Checking connectivity... done.
 
      git remote -v
 origin	https://github.com/schacon/ticgit (fetch)
-origin	https://github.com/schacon/ticgit (push)
+origin	https://github.com/schacon/ticgit (push)    
