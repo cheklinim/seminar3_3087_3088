@@ -155,3 +155,7 @@ VSСode дает возможность выбрать какое изменен
     git remote add origin <ссылка на ваш репозиторий>
     git branch -M main
     git push -u origin main
+
+## Проблемы с выгрузкой иной ветки от последней сохраненной на удаленном репозитории следует внести команду:
+
+    git push --set-upstream origin remoted
