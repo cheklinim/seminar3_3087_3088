@@ -128,3 +128,6 @@ VSСode дает возможность выбрать какое изменен
 1. git remote add origin https://github.com/vikijoy/test.git
 2. git branch -M main
 3. git push -u origin main
+
+# …or import code from another repository
+    You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
