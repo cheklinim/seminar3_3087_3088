@@ -123,3 +123,8 @@ VSСode дает возможность выбрать какое изменен
 5. git branch -M main
 6. git remote add origin https://github.com/vikijoy/test.git
 7. git push -u origin main
+
+# …or push an existing repository from the command line
+1. git remote add origin https://github.com/vikijoy/test.git
+2. git branch -M main
+3. git push -u origin main
