@@ -114,3 +114,7 @@ VSСode дает возможность выбрать какое изменен
 Чтобы удалить ветку, которая больше не нужно (например после слияния) используется команда
 
     git branch -d <имя_ветки>
+
+## remote repositories
+
+Remote repositories are versions of your project that are hosted on the Internet or network somewhere. You can have several of them, each of which generally is either read-only or read/write for you.
